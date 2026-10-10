@@ -1,0 +1,9 @@
+.env*
+.test-security.local.json
+/docs/
+/scripts/
+/supabase/
+/temp_extracted_frontend/
+/public/policypilot-frontend.zip
+*.zip
+.git/
